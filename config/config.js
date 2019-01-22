@@ -1,0 +1,1 @@
+module.exports.SEED = "%hospital-db%@users$";
